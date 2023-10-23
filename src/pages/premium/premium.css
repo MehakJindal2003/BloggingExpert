@@ -1,0 +1,85 @@
+.subscribeContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:200px 40px;
+}
+.subscribeBegin
+{
+    margin-top:-40px;
+}
+.premiumSubscribe
+{
+    background-color: rgb(255, 241, 249);
+    margin-top:40px;
+    position: relative;
+    overflow: hidden;
+}
+.subscribePrice
+{
+    font-size: 25px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: top 0.5s ease; /* Adjust the duration and easing as needed */
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+.subscribePrice:hover {
+    top: -20px;
+  }
+.subscribeCollab,.subscribeBlueTick,.subscribeAdFree,.subscribeTransition,.subscribeLive,.subscribeNetwork
+{
+    background-color: white;
+    width:460px;
+    padding:30px;
+    border:1px rgb(183, 182, 182) solid;
+    border-radius: 10px;
+    height:550px;
+    margin-bottom: 40px;
+}
+.subscribeCollab:hover,.subscribeBlueTick:hover,.subscribeAdFree:hover,.subscribeTransition:hover,.subscribeLive:hover,.subscribeNetwork:hover
+{
+    transform: translateY(-5px);
+    transition: 0.2s ease-in-out;
+}
+.subscribeCollab img,.subscribeBlueTick img,.subscribeAdFree img,.subscribeTransition img,.subscribeLive img,.subscribeNetwork img
+{
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+.subsp1
+{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.subscribeButton
+{
+    width:300px;
+    height:50px;
+    margin:0 auto;
+    margin-top:-170px;
+    margin-bottom: 70px;
+}
+.subscribeButton button
+{
+    width:300px;
+    height:50px;
+    border: 1px solid black;
+    padding-top:6px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+    background-color:black;
+    box-shadow: 0px 3px 2px rgb(210, 210, 210);
+}
+.subscribeButton button:hover
+{
+    transform: translateY(-7px);
+    transition: 0.2s;
+}

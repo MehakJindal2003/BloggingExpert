@@ -1,0 +1,111 @@
+.blog
+{
+    margin: 50px 0;
+}
+.blog .boxItems
+{
+    transition:0.5s;
+}
+.blog .boxItems:hover
+{
+    box-shadow: 0 2px 4px rgb(0 0 0/8%);
+    cursor: pointer;
+    transform: translateY(-5px);
+}
+.blog img
+{
+    width:100%;
+    height:250px;
+    object-fit:cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.blog .icon
+{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.blog .tag a
+{
+    color:blue;
+    opacity:0.7;
+}
+.blog .tag
+{
+    margin-bottom:20px;
+    display:flex;
+    align-items: center;
+}
+.blog h3
+{
+    font-weight: 500;
+}
+.blog p
+{
+    color:#999;
+    font-weight: 400;
+    margin: 20px 0;
+    font-size: 17px;
+    line-height: 25px;
+}
+.blog .date
+{
+    display: flex;
+    background: #fff;
+}
+.blog .date label
+{
+    display: block;
+    margin-right:20px;
+}
+.commentSubmitButton
+{
+    width:100px;
+    height:30px;
+    border-radius: 20px;
+    background-color:black;
+    color:white;
+}
+.comment-section
+{
+    margin-top:20px;
+}
+.comment-section textarea
+{
+    resize: none;
+}
+.blog .search-bar 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.blog .blogSearchHeading
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.blog .search-bar input {
+    width: 200px;
+    height: 40px;
+    background-color: #e0e0e0;
+    color: rgb(79, 79, 79);
+    border-radius: 10px 0px 0px 10px;
+    padding-left: 10px;
+}
+
+.blog .search-bar button {
+    width: 50px;
+    height: 40px;
+    background-color: black;
+    border-radius: 0px 10px 10px 0px;
+}
+
+/* #h2
+{
+    justify-content: center;
+    align-items: center;
+} */

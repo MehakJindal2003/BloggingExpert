@@ -1,0 +1,37 @@
+.contact
+{
+    padding-bottom: 30px;
+    margin-top: 50px;
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(167, 167, 167);
+    justify-content: space-between;
+}
+.contact .contact-section
+{
+    margin:0px 70px;
+    line-height: 40px;
+}
+.contact .contact-section ul li a
+{
+    color:black;
+}
+.contact .contact-section h3
+{
+    margin-bottom: 30px;
+}
+.contact .contact-section ul li span
+{
+    font-weight: 500;
+}
+.contactWebsiteLast
+{
+    margin-top:70px !important;
+    margin-bottom: 70px;
+}
+.contactWebsiteLast p span
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
