@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BloggingExpert/static/css/main.27285799.css",
+    "main.js": "/BloggingExpert/static/js/main.0f8ec0da.js",
+    "static/js/787.cda612ba.chunk.js": "/BloggingExpert/static/js/787.cda612ba.chunk.js",
+    "static/media/premium6.jpg": "/BloggingExpert/static/media/premium6.ca91124039ad3a111511.jpg",
+    "static/media/my-account.jpg": "/BloggingExpert/static/media/my-account.b60f4f583f3603323573.jpg",
+    "static/media/premium3.jpg": "/BloggingExpert/static/media/premium3.f82c75222088bcede2f8.jpg",
+    "static/media/premium2.jpg": "/BloggingExpert/static/media/premium2.e67ade4719e9a2659455.jpg",
+    "static/media/user0875.png.jpg": "/BloggingExpert/static/media/user0875.png.81643809e66740e6315f.jpg",
+    "static/media/premium1.jpg": "/BloggingExpert/static/media/premium1.1176bc723067f191d125.jpg",
+    "static/media/premium5.jpg": "/BloggingExpert/static/media/premium5.fc6c07c39065280f8e20.jpg",
+    "static/media/premium4.jpg": "/BloggingExpert/static/media/premium4.c50902b4e7fd4d4977dc.jpg",
+    "static/media/slick.svg": "/BloggingExpert/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BloggingExpert/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BloggingExpert/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BloggingExpert/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BloggingExpert/index.html",
+    "main.27285799.css.map": "/BloggingExpert/static/css/main.27285799.css.map",
+    "main.0f8ec0da.js.map": "/BloggingExpert/static/js/main.0f8ec0da.js.map",
+    "787.cda612ba.chunk.js.map": "/BloggingExpert/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27285799.css",
+    "static/js/main.0f8ec0da.js"
+  ]
+}
